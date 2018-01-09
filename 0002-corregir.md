@@ -41,6 +41,10 @@ Nadie nace sabiendo, pero siempre aprendemos. Necesitamos ver que podemos hacer 
 
 Las personas podemos mejorar, de hecho crecemos de ese modo. Si la confrontación con nuestros propios errores —la haga quien nos la haga— es problematica, tenemos un problema mayor que el hecho de que nos equivoquemos. El mundo es independiente de nuestra voluntad y de nuestros conocimientos. Dicho mal y pronto, no estar a su altura es exclusivamente fallo nuestro.
 
+Una corrección no es de la persona, sino de un conocimiento parcial o falso. No somos máquinas, ni arreglamos, ni nos arreglan. Sin embargo, eso no supone que no tengamos que mejorar. Porque hacer las cosas bien lleva menos tiempo y da mejor resultado que hacerlas mal.
+
 ## Cuestión de perspectiva
 
 Me temo que hay dos supuestos que peligrosos que evitan la corrección directa. Tanto de la quien puede mejorar, como de quien debería corregir.
+
+Quien trata de corregir sin que se note, parte de un supuesto que es mucho más exigente que la corrección directa. Esa presunción es que la persona
