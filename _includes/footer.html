@@ -2,16 +2,16 @@
 
   <div class="wrapper">
 
-    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2>-->
+    <!-- <h2 class="footer-heading">{{ site.title.name | escape }}</h2>-->
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>
             {% if site.author %}
-              Página personal de <a href="{{ site.author.website | escape }}">{{ site.author.name | escape }}</a>.
+              <a href="{{ site.title.website | escape }}">{{ site.title.name | escape }}</a>.
             {% else %}
-              {{ site.title | escape }}
+              {{ site.title.name | escape }}
             {% endif %}
             </li>
             {% if site.email %}
