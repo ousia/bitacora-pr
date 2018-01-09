@@ -47,4 +47,8 @@ Una corrección no es de la persona, sino de un conocimiento parcial o falso. No
 
 Me temo que hay dos supuestos que peligrosos que evitan la corrección directa. Tanto de la quien puede mejorar, como de quien debería corregir.
 
-Quien trata de corregir sin que se note, parte de un supuesto que es mucho más exigente que la corrección directa. Esa presunción es que la persona
+Quien trata de corregir sin que se note, parte de un supuesto que es mucho más exigente que la corrección directa. Esa presunción es que la persona va a saber qué es lo que tiene que corregir y por qué. En realidad, así se exige mucho más que si le identifica directamente el fallo y la razón de error.
+
+Quien debe mejorar puede tener la impresión de que no comete fallos o de que no son releavantes. Como nunca hay una corrección directa, puede llegar a pensar que son formas diferentes de hacer o pensar. Por supuesto, hay muchos detalles que dependen del contexto. Sin embargo, dado que las personas interactuamos y vivimos en sociedad, es importante que viviamos en el mundo que es y no en el que creemos que puede ser.
+
+El peligro final es el fraude a la persona. Puede que todo el sistema o proceso educativo no quiera asumir la responsabilidad de corregir. Es un modo de quitarse del medio, como otros muchos. Pero habrá un momento en que alguien esté en posición de exigir. El trabajo, tu pareja, las amistades, tu familia o la comunidad de vecinos. En el fondo, da igual quien sea. Que los sentimientos sean nobles —o que simplemente no haya malicia— no implica que no estemos haciendo nada mal. O que no seamos responsables de nuestros errores.
