@@ -1,10 +1,12 @@
 ---
 tab: none
-title: Bitácora
+title: Una lista de comentarios
 layout: page
 ---
 
-Esta bitácora contiene los siguientes comentarios:
+Esta bitácora contiene cosas sobre las que se me ocurre escribir y que pueden tener interés para otras personas.
+
+La lista contendrá cada cada vez más elementos, en la medida en que me dedique a escribirlos.
 
 {% assign default_paths = site.pages | map: "path" %}
 {% assign page_paths = site.header_pages | default: default_paths %}

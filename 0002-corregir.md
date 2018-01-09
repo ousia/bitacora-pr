@@ -1,7 +1,7 @@
 ---
 tab: none
 title: ¿Se debe corregir?
-layout: page
+layout: post
 permalink: /0002/
 ---
 
