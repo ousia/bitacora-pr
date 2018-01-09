@@ -2,6 +2,7 @@
 tab: none
 title: ¿Se debe corregir?
 layout: post
+date: 2018/01/09 14:02:41
 permalink: /0002/
 ---
 
