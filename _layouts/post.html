@@ -17,7 +17,8 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
-	{{ page.date | date: "%-d/%-m/%Y" }}
+        {{ content }}
+    {{ page.date | date: "%-d/%-m/%Y" }}
 </div>
 
   {% if site.disqus.shortname %}
