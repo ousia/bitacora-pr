@@ -1,6 +1,6 @@
 ---
 tab: none
-title: ¿Se debe corregir?
+title: ¿Se puede corregir?
 layout: post
 date: 2018/01/09 14:02:41
 permalink: /0002/
