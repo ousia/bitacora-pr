@@ -20,7 +20,7 @@ Incluso en las lenguas modernas, hay una grandísima diferencia entre lenguas qu
 
 Los acentos[^tilde]
 
-[^tilde] En puridad, «tilde» es el acento gráfico. En las lenguas modernas —al menos, en alemán e inglés—,  toda palabra polisílaba ha de tener una sílaba acentuada, «acento»
+[^tilde]: En puridad, «tilde» es el acento gráfico. En las lenguas modernas —al menos, en alemán e inglés—,  toda palabra con más de una sílaba de tiene una acentuada. Está claro que no todas las palabras se acentúan en español. Sin embargo, es posible usar «acento» con significado de «tilde». Así lo empleo en este texto.
 
 ## La im
 
