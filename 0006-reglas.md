@@ -14,7 +14,9 @@ Sé que escribir bien no es sólo tener ortografía. Siendo muy estricto, la ort
 
 Aunque nos parezca lo contrario, la ortografía nos facilita la escritura del idioma. La ortografía es una invención que aparece totalmente en las lenguas modernas. Por supuesto, no es que en las lenguas antiguas todo se pueda escribir de cualquier manera. Sin embargo, la escritura correcta se sabía por la práctica, no tanto por la existencia de reglas ortográficas.
 
-Un ejemplo donde
+Incluso en las lenguas modernas, hay una grandísima diferencia entre lenguas que tienen un modo de escritura predeterminado y las que no. En español y en alemán, se lee como se escribe. En inglés, no se lee como se escribe. Aunque sea hablante nativa, una persona no sabe cómo se pronuncia una palabra leyéndola si alguien no podría
+
+Un ejemplo que desie
 
 ## La im
 
