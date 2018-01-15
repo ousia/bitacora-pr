@@ -17,9 +17,11 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+	{% if page.date %}
     <div class="signature-date">
     	(Última edición: {{ page.date | date: "%d/%m/%Y, a las %-H:%M" }})
     </div>
+	{% endif %}
 </div>
 
   {% if site.disqus.shortname %}

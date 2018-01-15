@@ -18,9 +18,13 @@ Incluso en las lenguas modernas, hay una grandísima diferencia entre lenguas qu
 
 ### ¿Y los acentos?
 
-Los acentos[^tilde]
+Los acentos[^tilde] parecen olvidados. En la escritura común de textos completos, la mayoría de la gente no los usa. De hecho, no es tan común como debiera
 
 [^tilde]: En puridad, «tilde» es el acento gráfico. En las lenguas modernas —al menos, en alemán e inglés—,  toda palabra con más de una sílaba de tiene una acentuada. Está claro que no todas las palabras se acentúan en español. Sin embargo, es posible usar «acento» con significado de «tilde». Así lo empleo en este texto.
+
+También usan acentos están el portugués y el italiano, además de nuestro gallego y catalán. El francés tiene tres tipos de acentos. ¿El inglés o el alemán son más fáciles por no tener acentos? Un ejemplo, _record_ puede acentuarse de dos modos, como grave y como agudo, ya como nombre o adjetivo, o como verbo. ¿Seguro que no es más fácil escribir «revólver» y «revolver»?
+
+La última cuestión
 
 ## La im
 
