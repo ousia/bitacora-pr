@@ -36,13 +36,21 @@ La tarea de la Real Academia Española es la fijación de las reglas de la lengu
 
 [^raefuera]: Son las instituciones que elaboran diccionarios, como el _Oxford English Dictionary_ o el diccionario alemán _Duden_.
 
-Por supuesto, las —personas— académicas[^personasacademicas] hacen un gran trabajo. Sin embargo, a veces hay un asunto que me temo que parece esconderse: un criterio razonado. No digo que la lengua no sea algo vivo, que está en constante evolución. La lengua escrita no debe cambiar tan rápido como la hablada[^lenguaescrita]. No es bueno escribir _exactamente igual_ que se habla. Un texto es un nivel formal superior al habla, precisamente porque fija el habla. Pongo dos ejemplos,
+Por supuesto, las —personas— académicas[^personasacademicas] hacen un gran trabajo. Sin embargo, a veces hay un asunto que me temo que parece esconderse: un criterio razonado. No digo que la lengua no sea algo vivo, que está en constante evolución. La lengua escrita no debe cambiar tan rápido como la hablada[^lenguaescrita]. No es bueno escribir _exactamente igual_ que se habla. Un texto es un nivel formal superior al habla, precisamente porque fija el habla.
 
 [^personasacademicas]: Me refiero a toda la gente que trabaja en la institución, no sólo a las personas que ostentan las titularidades de los sillones.
 
 [^lenguaescrita]: De hecho, la ortografía es únicamente para la lengua escrita.
 
-No tienen función notarial, sino normativa.
+La mayor formalidad de la lengua escrita puede ilustrarse con dos ejemplos. No son cambios propiamente, sino aceptación de la versión menos culta. El primer caso es aceptar «sicología» como forma alternativa de «psicología». Etimológicamente, la letra inicial es doble _ps_, no sólo _s_[^psico]. En realidad, todos los derivados de «psique» se pueden escribir sin la _p_ inicial. El segundo caso es poder escribir «güevo» o «yerba» en vez de «huevo» o «hierba». En realidad, lo que ha hecho la Academia es admitir como correcta una forma muy común en el habla.
+
+[^psico]: La palabra griega es ψυχή. La ψ pasa al latín como _ps_, de la que pasan a las lenguas modernas. En inglés y alemán son _psychology_ y _Psychologie_. Hasta donde sé, ninguna otra lengua admite que la _ps_ pase sólo a ser _s_.
+
+Podía entender el primer ejemplo[^2ej], pero me he dado cuenta de que estaba equivocado. O no consigo entender las razones por las que la Academia hace el cambio. La palabra es «psique», que consultando el [_Diccionario de la lengua española_](dle.rae.es/?w=psique), no cabe escribir como «sique». [Esta última palabra](dle.rae.es/?w=sique) es un baile hondureño. Sin embargo, si el alma o principio de vida no puede escribirse «sique», ¿por qué es correcta «siquiatría» o «sicóloga»? «Psique» es una palabra culta, como lo son las palabras compuestas con ella.
+
+[^2ej]: El segundo no creo que sea una buena decisión. Sin embargo, las razones no vienen al caso.
+
+En el fondo, la Academia No tienen función notarial, sino normativa.
 
 
 ## La generalidad
