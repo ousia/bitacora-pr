@@ -24,12 +24,37 @@ Los acentos[^tilde] parecen olvidados. En la escritura común de textos completo
 
 También usan acentos están el portugués y el italiano, además de nuestro gallego y catalán. El francés tiene tres tipos de acentos. ¿El inglés o el alemán son más fáciles por no tener acentos? Un ejemplo, _record_ puede acentuarse de dos modos, como grave y como agudo, ya como nombre o adjetivo, o como verbo. ¿Seguro que no es más fácil escribir «revólver» y «revolver»?
 
-La última cuestión
+El último ejemplo es de un Nobel —Gabriel García Márquez—, que afirmaba que nadie «confundirá revolver con revólver». Su idea de simplificar la lengua es loable, pero me temo que ingenua. Me temo que el mismo reconoce —en su autobiografía _Vivir para contarla_— que sus conocimientos de ortografía eran más bien escasos. El escritor relata que le corregían fallos ortográficos graves como simples errores de escritura a máquina.
 
-## La im
+La ingenuidad está en no darse cuenta que lo que se facilita quitando los acentos, se complica después. El general Moscardó pasa a ser pariente de moscas, o la frase «no sabía qué quería» se vuelve ambigua. Sin acentos, tenemos que aprender a pronunciar las palabras antes de leerlas. En ese caso, el texto ya nos podría ayudar. En no pocos casos, aumentará la ambigüedad[^dieresis]. No es que haya casos irresolubles, sino que la lectura será innecesariamente más lenta o la escritura más prolija.
+
+[^dieresis]: ¿También debemos eliminar la diéresis o en ese caso advertimos que es útil?
+
+## La fijación de un criterio
+
+La tarea de la Real Academia Española es la fijación de las reglas de la lengua. Por supuesto, no son leyes, sino normas de escritura correcta. En en modelo francés, es una institución administrativa la que fija esas normas. En otros países, son instiuciones privadas[^raefuera].
+
+[^raefuera]: Son las instituciones que elaboran diccionarios, como el _Oxford English Dictionary_ o el diccionario alemán _Duden_.
+
+Por supuesto, las —personas— académicas[^personasacademicas] hacen un gran trabajo. Sin embargo, a veces hay un asunto que me temo que parece esconderse: un criterio razonado. No digo que la lengua no sea algo vivo, que está en constante evolución. La lengua escrita no debe cambiar tan rápido como la hablada[^lenguaescrita]. No es bueno escribir _exactamente igual_ que se habla. Un texto es un nivel formal superior al habla, precisamente porque fija el habla. Pongo dos ejemplos,
+
+[^personasacademicas]: Me refiero a toda la gente que trabaja en la institución, no sólo a las personas que ostentan las titularidades de los sillones.
+
+[^lenguaescrita]: De hecho, la ortografía es únicamente para la lengua escrita.
+
+No tienen función notarial, sino normativa.
 
 
+## La generalidad
 
-personas académicas
+## La disensión
+
+## Criterio y estilo
+
+esto no son leyes
 
 ### Notas
+
+<!-- https://twitter.com/perezreverte/status/950509982692315137
+http://www.estandarte.com/noticias/idioma-espanol/dudas-de-ortografia_187.html
+-->
