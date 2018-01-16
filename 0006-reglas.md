@@ -26,9 +26,11 @@ También usan acentos están el portugués y el italiano, además de nuestro gal
 
 El último ejemplo es de un Nobel —Gabriel García Márquez—, que afirmaba que nadie «confundirá revolver con revólver». Su idea de simplificar la lengua es loable, pero me temo que ingenua. Me temo que el mismo reconoce —en su autobiografía _Vivir para contarla_— que sus conocimientos de ortografía eran más bien escasos. El escritor relata que le corregían fallos ortográficos graves como simples errores de escritura a máquina.
 
-La ingenuidad está en no darse cuenta que lo que se facilita quitando los acentos, se complica después. El general Moscardó pasa a ser pariente de moscas, o la frase «no sabía qué quería» se vuelve ambigua. Sin acentos, tenemos que aprender a pronunciar las palabras antes de leerlas. En ese caso, el texto ya nos podría ayudar. En no pocos casos, aumentará la ambigüedad[^dieresis]. No es que haya casos irresolubles, sino que la lectura será innecesariamente más lenta o la escritura más prolija.
+La ingenuidad está en no darse cuenta que lo que se facilita quitando los acentos, se complica después. El general Moscardó pasa a ser pariente de moscas, o la frase «no sabía qué quería» se vuelve ambigua. Sin acentos, tenemos que aprender a pronunciar las palabras antes de leerlas. En ese caso, el texto ya nos podría ayudar. En no pocos casos, aumentará la ambigüedad[^dieresis]. No es que haya casos irresolubles[^diacr], sino que la lectura será innecesariamente más lenta o la escritura más prolija.
 
 [^dieresis]: ¿También debemos eliminar la diéresis o en ese caso advertimos que es útil?
+
+[^diacr]: La misma Academia proporciona un ejemplo en la entrada de [«insecto»](): «[d]el latín _insectum_, y este calco del griego ἔντομον». Está copiado literalmente, hay que pensarse si «este» es pronombre o adjetivo demostrativo.
 
 ## La fijación de un criterio
 
@@ -48,14 +50,26 @@ La mayor formalidad de la lengua escrita puede ilustrarse con dos ejemplos. No s
 
 Podía entender el primer ejemplo[^2ej], pero me he dado cuenta de que estaba equivocado. O no consigo entender las razones por las que la Academia hace el cambio. La palabra es «psique», que consultando el [_Diccionario de la lengua española_](http://dle.rae.es/?w=psique), no cabe escribir como «sique». [Esta última palabra](http://dle.rae.es/?w=sique) es un baile hondureño. Sin embargo, si el alma o principio de vida no puede escribirse «sique», ¿por qué es correcta «siquiatría» o «sicóloga»? «Psique» es una palabra culta, como lo son las palabras compuestas con ella.
 
-[^2ej]: El segundo no creo que sea una buena decisión. Sin embargo, las razones no vienen al caso.
+[^2ej]: El segundo caso no creo que sea una buena decisión. Sin embargo, las razones no vienen al caso.
 
-En el fondo, la Academia No tienen función notarial, sino normativa.
+En el fondo, el criterio se muestra en dos aspectos: que sea congruente y que se pueda explicar a otros. La Academia no sólo tiene una función de recogida de usos, sino también una función normativa. Porque si el uso lo es todo, la depauperación lingüística será inevitable. El enriquecimiento del idioma es una de las funciones académicas, a través de la normativa. Hay que distinguir los mejores usos y ponerlos como ejemplos.
 
+Para lo que muchas veces es un «todo vale» ---y sálvese quien pueda---, apelamos a que la lengua es algo vivo. Es totalmente cierto. Lo que olvidamos es que no somos las primeras personas del planeta y que todas las lenguas tienen una historia. Nuestra lengua tiene un pasado claro en el griego clásico, el latín y el árabe. Si bien, no son en la misma medida, ese pasado hace que nuestra lengua sea como es. Para nuestra lengua, el inglés es una influencia extraña que nos ha hecho algún préstamo lingüístico, nada más. Por eso, en español «como si se acabase el mundo» es como se dice «como si no hubiese un mañana»[^mañana].
+
+[^mañana]: Anglicismo claro, la expresión original es _as if there was no tomorrow_.
 
 ## La generalidad
 
+En el caso de los acentos hay dos casos en que es difícil entender el criterio académico. Son los últimos cambios de la Academia, incluidos en su _Ortografía_ de 2010.
+
+El primer caso es la no acentuación de «guión», «truhán», «riáis» o «fié». Como hay personas que pronuncian esas palabras como una única sílaba, no deben acentuarse porque sería contrario a las reglas generales de la acentuación. La norma académica es que no se acentúan nunca, se pronuncien como se pronuncien. Por tanto, acentuarlas es un error.
+
+El segundo caso son los acentos diacríticos. Un ejemplo sería «éste, que no tiene quien le aguante, no sabe quién es ese personaje». Se acentúan unas formas, para distinguirlas de otras. En este caso, la Academia permite la acentuación, pero no la aconseja. El motivo es que es contraria a las reglas generales de la acentuación.
+
+Me temo que la contradicción académica es flagrante. Desaconseja el uso del acento diacrítico por ser contrario a las reglas generales de la acentuación y proscribe el acento de palabras que deberían acentuarse según esas mismas reglas.
+
 ## La disensión
+
 
 ## Criterio y estilo
 
