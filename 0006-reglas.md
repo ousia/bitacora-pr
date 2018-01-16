@@ -46,7 +46,7 @@ La mayor formalidad de la lengua escrita puede ilustrarse con dos ejemplos. No s
 
 [^psico]: La palabra griega es ψυχή. La ψ pasa al latín como _ps_, de la que pasan a las lenguas modernas. En inglés y alemán son _psychology_ y _Psychologie_. Hasta donde sé, ninguna otra lengua admite que la _ps_ pase sólo a ser _s_.
 
-Podía entender el primer ejemplo[^2ej], pero me he dado cuenta de que estaba equivocado. O no consigo entender las razones por las que la Academia hace el cambio. La palabra es «psique», que consultando el [_Diccionario de la lengua española_](dle.rae.es/?w=psique), no cabe escribir como «sique». [Esta última palabra](dle.rae.es/?w=sique) es un baile hondureño. Sin embargo, si el alma o principio de vida no puede escribirse «sique», ¿por qué es correcta «siquiatría» o «sicóloga»? «Psique» es una palabra culta, como lo son las palabras compuestas con ella.
+Podía entender el primer ejemplo[^2ej], pero me he dado cuenta de que estaba equivocado. O no consigo entender las razones por las que la Academia hace el cambio. La palabra es «psique», que consultando el [_Diccionario de la lengua española_](http://dle.rae.es/?w=psique), no cabe escribir como «sique». [Esta última palabra](http://dle.rae.es/?w=sique) es un baile hondureño. Sin embargo, si el alma o principio de vida no puede escribirse «sique», ¿por qué es correcta «siquiatría» o «sicóloga»? «Psique» es una palabra culta, como lo son las palabras compuestas con ella.
 
 [^2ej]: El segundo no creo que sea una buena decisión. Sin embargo, las razones no vienen al caso.
 
