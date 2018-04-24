@@ -30,7 +30,7 @@ La ingenuidad está en no darse cuenta que lo que se facilita quitando los acent
 
 [^dieresis]: ¿También debemos eliminar la diéresis o en ese caso advertimos que es útil?
 
-[^diacr]: La misma Academia proporciona un ejemplo en la entrada de [«insecto»](): «[d]el latín _insectum_, y este calco del griego ἔντομον». Está copiado literalmente, hay que pensarse si «este» es pronombre o adjetivo demostrativo.
+[^diacr]: La misma Academia proporciona un ejemplo en la entrada de [«insecto»](http://dle.rae.es/?w=insecto): «[d]el latín _insectum_, y este calco del griego ἔντομον». Está copiado literalmente, hay que pensarse si «este» es pronombre o adjetivo demostrativo.
 
 ## La fijación de un criterio
 
@@ -77,6 +77,7 @@ Los acentos diacríticos es el primer campo. No siguen las reglas generales de l
 El segundo caso creo que es más claro, aunque intervengan más factores. Si las reglas generales de acentuación deben de aplicarse, no hay razón para no hacerlo en palabras bisílabas agudas. En el caso más estricto, podría mantenerse la obligación cuando esas palabras contengan varias sílabas y quitarse cuando contengan sólo una sílaba. Entiendo que es el modo más sensato de dar razón de la diversidad lingüística.
 
 ## Criterio y estilo
+
 
 esto no son leyes
 
