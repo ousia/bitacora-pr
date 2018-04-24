@@ -78,8 +78,27 @@ El segundo caso creo que es más claro, aunque intervengan más factores. Si las
 
 ## Criterio y estilo
 
+Es fácil considerar las reglas ortográficas como leyes. No creo que lo sean. Desde luego, no son leyes físicas, ni tampoco normas jurídicas en sentido estricto. La razón básica es sencilla, son cuestión de estilo.
 
-esto no son leyes
+Las reglas ortográficas deben ser claras y sencillas. Por supuesto, son convencionales, pero no son arbitrarias. La convención de la que surgen son un acuerdo mantenido en el tiempo. No dependen de una decisión momentánea, ni tampoco individual.
+
+Debido a que las reglas ortográficas forman un sistema de escritura, es importante que sean congruentes entre sí. La coherencia entre reglas ortográficas no es la de un sistema lógico formal, sino la de reglas de escritura. No puede ser un sistema perfecto, pero debe evitar contradicciones.
+
+Debido a que la escritura es una cuestión de estilo, porque entran en juego más elementos que la ortografía, podemos prescincir de algunas de las prescipciones académicas. Ésa es la razón de la «pájina» de Juan Ramón Jiménez: es incorrecta para todos los demás, pero es correcta en su caso[^jrj].
+
+[^jrj]: La regla que el escritor consideraba es que _ge_ y _gi_ deberían escribirse siempre con _j_.
+
+    Como comentario, me pregunto cómo distinguiría el poeta entre «injerencia» e «ingesta».
+
+No se trata de reinventar la ortografía. De hecho, la escritura alternativa de _Poemas májicos y dolientes_ se le permiten a un Premio Nobel de Literatura, aunque su uso sea realmente extravagante[^j-extravagante].
+
+[^j-extravagante]: No soy un experto en el Juan Ramón, aunque cabe de calificar de extravagancia el uso exclusivo de _j_, porque no unifica otros sonidos que usan distintas letras —como _ll_ e _y_—.
+
+    Es extravagante también el uso de «majia», debido a la etimología de la palabra. Que se acaben pronunciándose de diferente manera en español, no impide que el origen sea _magia_ en latín y μαγεία en griego.
+
+En los casos extremos, se trata de una decisión personal. Serán muy pocos, por su propia naturaleza. Evitar los acentos diacríticos no creo que sea una gran idea. Tampoco dejar sin tilde a palabras bisílabas agudas considero que sea un acierto.
+
+Es una libertad lingüística necesaria si pretenden que ortográficamente hacernos comulgar con ruedas de molino.
 
 ### Notas
 

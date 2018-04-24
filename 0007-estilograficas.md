@@ -6,8 +6,7 @@ date:
 permalink: /0007/
 ---
 
-##
-
+Recogo aquí una serie de consejos básicos para el cuidado de plumas estilográficas.
 
 Por si alguien lo dudase, no tengo ningún interés económico en las marcas que menciono. Sólo soy un usuario y cuento mis experiencias con los diferentes objetos que poseo.
 
@@ -34,6 +33,20 @@ El azul normal de estilográfica tiene una ventaja indudable, especialmente para
 [^azul-lavable]: En inglés es _washable blue_. Desconozco si todas las marcas de tinta de estilográfica tienen ese tipo de tinta. No todo azul es lavable; por ejemplo, _Parker_ tiene azul lavable y azul permanente.
 
     En todo caso, si la tinta no advierte que es lavable, no hay por qué pensar que lo es.
+
+Es importante que tengas en cuenta eso porque ningún otro color se puede lavar de un tejido. Incluso aunque sea o contenga azul.
+
+## Cargadores
+
+## Limpieza
+
+Cuando no vayas a usar una pluma durante mucho tiempo o notes que la escritura no tiene tinta fluida, tienes que limpiarla. No es extraño que tengas que limpiar la pluma periódicamente.
+
+Para limpiar una pluma sólo puedes usar agua. Es mejor que uses agua destilada porque no dejará residuos secos en la pluma. En zonas donde el agua es tiene bastante cal u otras impurezas, el agua destilada es obligatoria.
+
+Como ya te he advertido, es importante que no uses otra cosa que agua. El jabón no te ayudará a disolver la tinta y se quedará dentro del plumín. El alcohol atacará las partes no metálicas del plumín de modo irreversible.
+
+El agua es el disolvente universal y la tinta de pluma acaba disolviéndose. Todo lo que se necesita es tiempo. Si usas o tienes que usar agua destilada, no debes poner la pluma debajo del grifo. Aunque no tuvieses que
 
 ### Notas
 
