@@ -74,7 +74,7 @@ No dudo la gran labor de la Academia en el campo de la lengua española. El resp
 
 Los acentos diacríticos es el primer campo. No siguen las reglas generales de la acentuación. No es ninguna novedad. Ése es el motivo por el que son diacríticos. Diacrítico es exactamente «distintivo». Ése es su uso, distinguir gráficamente palabras que se escriben igual —«no quiero más, mas no es mala idea»—. Esos acentos son muy útiles. ¿Cabe suprimirlos? Como todo en ortografía, pero la dificultad por esa simplificación del idioma aparecerá después. De todas formas, la Academia reconoce lo tentativo de esta sugerencia al aconsejar el no uso, pero no volviendo incorrecto el uso de los acentos diacríticos.
 
-El segundo caso creo que es más claro, aunque intervengan más factores. Si las reglas generales de acentuación deben de aplicarse, no hay razón para no hacerlo en palabras bisílabas agudas. En el caso más estricto, podría mantenerse la obligación cuando esas palabras contengan varias sílabas y quitarse cuando contengan sólo una sílaba. Entiendo el modo más sensato de dar razón de la diversidad lingüística.
+El segundo caso creo que es más claro, aunque intervengan más factores. Si las reglas generales de acentuación deben de aplicarse, no hay razón para no hacerlo en palabras bisílabas agudas. En el caso más estricto, podría mantenerse la obligación cuando esas palabras contengan varias sílabas y quitarse cuando contengan sólo una sílaba. Entiendo que es el modo más sensato de dar razón de la diversidad lingüística.
 
 ## Criterio y estilo
 
