@@ -74,9 +74,15 @@ Como ya te he advertido, es importante que no uses otra cosa que agua. El jabón
 
 El agua es el disolvente universal y la tinta de pluma acaba disolviéndose. Todo lo que se necesita es tiempo. Con agua destilada, no debes poner la pluma debajo del grifo. Aunque no tuvieses que usar agua destilada, tienes que dejar el plumín metido en agua durante días. La disolución de la tinta seca puede llevar días, o incluso semanas.
 
-<!-- ## Plumines intercambiables
+Es fácil que tengas que cambiar el agua varias veces, hasta que se quede perfectamente clara. Si la pluma tiene cargador, es importante que limpies también el cargador. Puedes usar también el cargador para tomar agua por el plumín y limpiarlo soltando el agua en otro recipiente —o directamente al desagüe—. Así vacías la tinta que pueda contener el plumín, pero no necesariamente se disuelve la tinta que pueda haber seca. Por eso, hay que dejar los plumines en agua durante unos días.
 
--->
+Una vez limpio, es importante secar el plumín. Puedes usar papel de cocina o servilletas de papel, para absorber la mayor cantidad posible de agua. Es importante que quede lo más seca posible para evitar que la tinta se ague la siguiente vez que uses esa pluma.
+
+## Plumines intercambiables
+
+_Lamy_ es una marca alemana que fabrica plumas sencillas. Tiene un sistema de plumines intercambiables. Existen en todos los grosores —EF, F, M, B y BB— y también caligráficos —1.1, 1.5 y 1.9 mm—. Su tamaño de cartucho de tinta es propio[^lamy], no compatible con otras marcas.
+
+[^lamy]: Por eso es interesante usar un cargador con un tintero independiente, recargándolo con una jeringuilla.
 
 ### Notas
 
