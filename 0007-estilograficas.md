@@ -56,6 +56,14 @@ Si el cargador está incorporado a la pluma, tendrás que usarlo metiendo el plu
 
 Si el cargador puede quitarse, no te recomiendo que uses el sistema del párrafo anterior. Es engorroso y debe usarse si no queda otro remedio. Es más fácil hacerlo de una manera más simple.
 
+La manera más fácil de usar un cargador es con una jeringuilla. Te recomiendo que compres en una farmacia una de insulina[^jeringuilla]. Puedes usar otra, pero es más cómoda esa porque tiene muy poca carga y es más fácil regular la descarga de tinta.
+
+[^jeringuilla]: Tienen de carga diez mililitros y una aguja más pequeña que una normal.
+
+Todo lo que tienes que hacer es separar el cargador y llenarlo con tinta que previamente has llenado con la jeringuilla del tintero. Vacías lo que sobra de la jeringuilla en el tintero y limpias la aguja de la tinta que pueda tener con una servilleta de papel. Luego unes el cargador al plumín por la parte que le corresponde.
+
+Como consejo útil, te recomiendo que antes de empezar a bajar el émbolo de la jeringuilla te asegures de que tienes la aguja dentro. Parece una tontería, pero la tinta mancha mucho. Hasta donde recuerdo, nunca me ha pasado, pero ha estado a punto. La aguja está dentro cuando la mueves hacia los lados y la boca del cargador te impide moverla más.
+
 ## Limpieza
 
 Cuando no vayas a usar una pluma durante mucho tiempo o notes que la escritura no recibe tinta fluida, tienes que limpiarla. No es extraño que tengas que limpiar la pluma periódicamente.
@@ -66,7 +74,9 @@ Como ya te he advertido, es importante que no uses otra cosa que agua. El jabón
 
 El agua es el disolvente universal y la tinta de pluma acaba disolviéndose. Todo lo que se necesita es tiempo. Con agua destilada, no debes poner la pluma debajo del grifo. Aunque no tuvieses que usar agua destilada, tienes que dejar el plumín metido en agua durante días. La disolución de la tinta seca puede llevar días, o incluso semanas.
 
+<!-- ## Plumines intercambiables
 
+-->
 
 ### Notas
 
