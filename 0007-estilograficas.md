@@ -84,5 +84,12 @@ _Lamy_ es una marca alemana que fabrica plumas sencillas. Tiene un sistema de pl
 
 [^lamy]: Por eso es interesante usar un cargador con un tintero independiente, recargándolo con una jeringuilla.
 
+La gran ventaja de que sea intercambiable es que puede estropearse el plumín y no te quedas sin pluma. Además, puedes tener varias plumas en una. Tienes que cambiar el plumín cada vez que quieras cambiar a otro.
+
+No te aconsejo que lo cambies como recomienda la marca. La razón principal es que me temo que es fácil estropear así el plumín. Tampoco parece más fácil. Yo lo he intentado y he desistido, porque temía cargarme el plumín. El método más seguro puede hacer que te manches los dedos.
+
+Para quitar el plumín, tienes que cogerlo de los lados y tirar de él hacia delante. Te aconsejo que uses una servilleta, para no mancharte. Si la tinta está seca, es fácil que le cueste salir. O incluso puedes tener que meterlo en agua. Siempre que quites un plumín que ha estado con tinta, te aconsejo que lo dejes un par de días dentro de agua.
+
+
 ### Notas
 
