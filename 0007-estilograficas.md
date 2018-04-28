@@ -20,7 +20,9 @@ Hay dos consideraciones importantes que debes respetar siempre.
 
 [^tintas-pelikan]: De hecho, _Pelikan 4001_ es la marca para tinta de estilográfica. Aunque la tinta china se use para caligrafía no es con pluma estilográfica.
 
-* Nunca uses alcohol para limpiar una pluma. Sólo puedes usar agua para disolver los residuos de tinta seca que la pluma pueda tener.
+* Nunca uses alcohol para limpiar una pluma. Sólo puedes usar agua para disolver los residuos de tinta seca que la pluma pueda tener[^acetona].
+
+[^acetona]: Espero que sea claro, pero si no se pueden limpiar con alcohol, mucho menos intentes limpiar una pluma con acetona. La acetona disuelve el plástico en horas.
 
 ## Colores
 
