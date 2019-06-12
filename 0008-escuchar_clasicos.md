@@ -70,5 +70,4 @@ Creo que es importante destacar lo excepcional de estos audiolibros. Por supuest
 
     Por supuesto, es la frase de Groucho Marx. Al parecer, fue un gran lector durante toda su vida.
 
-[^neuro]: Te recomiendo la introducción de Andrew Smart, _Autopilot: The Art and Science of Doing Nothing_. En español, está traducido como _
-El arte y la ciencia de no hacer nada _.
+[^neuro]: Te recomiendo la introducción de Andrew Smart, _Autopilot: The Art and Science of Doing Nothing_. En español, está traducido como _El arte y la ciencia de no hacer nada_.
