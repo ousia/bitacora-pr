@@ -18,10 +18,18 @@ Reconozco que me he enfrentado varias veces a los textos fundacionales de la civ
 
 ### La importancia de la escucha
 
+Reconozco que he entendido el sentido de cada una de las historias que cuenta Homero cuando me he dedicado a escucharlas. Me refiero al sentido más literal y con esto quiero hablar de [_LibriVox_](https://librivox.org/).
 
+Son libros que están en el dominio público que los leen voluntarios y sus grabaciones están en el dominio público[^librivox]. La mayor parte de los libros están en inglés[^idiomas]
 
 ### Notas
 
 [^gadamer]: Esta idea la expone H.-G. Gadamer en su obra _Verdad y método_, en el epígrafe titulado _El ejemplo de lo clásico_.
 
 [^dialogosnotas]: “The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato”; A. N. Whitehead, _Process and Reality_,
+
+[^librivox]: El objetivo del proyecto es [claro](https://librivox.org/pages/about-librivox/):
+
+    > _To make all books in the public domain available, for free, in audio format on the internet._
+
+[^idiomas]: Puedes ver aquí los [libros disponibles por idiomas](http://librivox.org/search/language).
