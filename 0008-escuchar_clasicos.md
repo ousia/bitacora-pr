@@ -58,6 +58,8 @@ Creo que es importante destacar lo excepcional de estos audiolibros. Por supuest
 
     > _To make all books in the public domain available, for free, in audio format on the internet._
 
+    Desde luego, nadie puede negar que es una finalidad ambiciosa.
+
 [^idiomas]: Puedes ver aquí los [libros disponibles por idiomas](http://librivox.org/search/language).
 
 [^griego]: De hecho, parece que en griego antiguo hay más que en griego moderno.
