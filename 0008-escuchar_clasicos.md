@@ -36,9 +36,17 @@ Podríamos pensar que tratándose de un proyecto de voluntarios, la calidad de l
 
 * [_Odisea_](https://librivox.org/la-odisea-by-homero/), leída por [Victor Eloy Villarraza](https://www.facebook.com/victor.villarraza).
 
-Por si alguien tiene dudas, son cerca de quince horas de grabación cada hora. Es un trabajo muy duro. Pero también en una escucha de tantas horas, si algo falla, se vuelve tedioso. Cuando va avanzando la obra, tienes ganas de escuchar precisamente esa lectura.
+Por si alguien tiene dudas, son aproximadamente quince horas de grabación cada obra. Es un trabajo muy duro. También en una escucha de tantas horas, si algo falla, se vuelve tedioso. Cuando va avanzando la obra, tienes ganas de escuchar precisamente esa lectura. Es sorprendente lo bien hecha que están esas lecturas.
 
 ## Cuestión de actitud
+
+Me gusta leer mucho más de lo que quizá puede parecer aquí. De hecho, me gusta la ironía de «encenderé la televisión, cuando pongan lo que sale en mis libros de papel»[^marx]. No sé si escucharía algún libro en otra lengua, pero por practicar la escucha en ese idioma idioma.
+
+En español, creo que sólo «leería» las grandes épicas clásicas. No es por rehuir el esfuerzo de leer, sino por empaparme mejor de la historia que cuentan. Reconozco que puede ser una cuestión muy personal, pero los títulos que he mencionado hay que «leerlos» así.
+
+La actitud y la atención debe ser la misma que leyendo el libro. Eso quiere decir que no puedes estar haciendo otra cosa y que tienes que estar sólo a la escucha. Nadie te prohibe nada, pero te enterarás según la proporción de atención que le dediques. Pasivamente sólo oirás, o incluso te impedirás escuchar las voces que estás oyendo.
+
+Creo que es importante destacar lo excepcional de estos audiolibros. Por supuesto, son más escuchar grabaciones que leer. También es más cómodo beber que masticar, pero no comemos todo licuado. Entre otras cosas, porque literarlmente se nos caerían los dientes. Es importante hacer el esfuerzo, porque las capacidades —la inteligencia es eso— las desarrollamos con el ejercicio. Si no me crees, neurológicamente sabemos[^neuro] que lo que no desarrollamos, lo perdemos. Sin que sean ni mucho mecánicos, es cuestión de hábitos, que son intelectuales.
 
 ### Notas
 
@@ -55,3 +63,12 @@ Por si alguien tiene dudas, son cerca de quince horas de grabación cada hora. E
 [^griego]: De hecho, parece que en griego antiguo hay más que en griego moderno.
 
 [^escucha]: Realmente, me temo que la «escucha pasiva» es lo que te entra por los oídos porque no impides la audición.
+
+[^marx]: No está inspirada en la grandísima máxima marxista:
+
+    > I find television very educational. Every time someone switches it on, I go into another room and read a good book.
+
+    Por supuesto, es la frase de Groucho Marx. Al parecer, fue un gran lector durante toda su vida.
+
+[^neuro]: Te recomiendo la introducción de Andrew Smart, _Autopilot: The Art and Science of Doing Nothing_. En español, está traducido como _
+El arte y la ciencia de no hacer nada _.
