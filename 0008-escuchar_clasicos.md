@@ -6,21 +6,39 @@ date:
 permalink: /0008/
 ---
 
-### La relevancia de lo clásico
+## La relevancia de lo clásico
 
 No es ninguna novedad decir que los clásicos nos hablan. Es bastante probable[^gadamer], que son precisamente clásicos porque hablan a toda época histórica. Siempre tienen algo que decir.
 
 Poniendo un ejemplo muy básico, es probable que los diálogos de Platón tengan todavía mucho que decir y enseñarnos. Aunque el mundo ese filósofo y el nuestro son totalmente distintos, cada encuentro con sus obras son una invitación de primerísima clase a pensar. Porque es un gigante de la filosofía[^dialogosnotas], no nos invita a repetir lo que ha dicho, sino a que nos preguntemos. Tanto qué y quiénes somos, como el porqué de lo que nos rodea.
 
-### Un comienzo homérico
+## Un comienzo homérico
 
-Reconozco que me he enfrentado varias veces a los textos fundacionales de la civilización griega, que son la _Ilíada_ y la _Odisea_ de Homero. Por lo que voy a contar, para mi vergüenza, incluso trabajé una de sus partes en su lengua original. La habré leído más de un par de veces cada una.
+Reconozco que me he enfrentado varias veces a los textos fundacionales de la civilización griega, que son _Ilíada_ y _Odisea_ de Homero. Por lo que voy a contar, para mi vergüenza, incluso trabajé una de sus partes en su lengua original. La habré leído más de un par de veces cada una.
 
-### La importancia de la escucha
+## La importancia de la escucha
 
 Reconozco que he entendido el sentido de cada una de las historias que cuenta Homero cuando me he dedicado a escucharlas. Me refiero al sentido más literal y con esto quiero hablar de [_LibriVox_](https://librivox.org/).
 
-Son libros que están en el dominio público que los leen voluntarios y sus grabaciones están en el dominio público[^librivox]. La mayor parte de los libros están en inglés[^idiomas]
+Son libros que están en el dominio público que los leen voluntarios y sus grabaciones están en el dominio público[^librivox]. La mayor parte de los libros están en inglés, aunque hay en otros idiomas[^idiomas] —incluso en latín y griego clásico[^griego]—.
+
+## Aclaraciones previas
+
+En condiciones normales, no me gustan los audiolibros por las razones que ahora expongo. Creo que _LibriVox_ es un gran proyecto, pero no es mi intención hacer publicidad aquí de ellos. Aceptan donaciones, si consideras que debes donar —o leer algún libro para dedicarlo al dominio público—, te aconsejo que hagas lo que mejor entiendas.
+
+## Destruyendo mitos
+
+Uno de los peligros de la escucha mal entendida es pensar que es pasiva. Necesitamos oir, pero escuchar es una actividad. Esa es la razón de que nos encontremos con expresiones como «escucha activa»[^escucha]. Si comparamos la lectura de un libro y escuchar música, es fácil que pensemos que leer es más activo que oir música. El peligro de los audiolibros es que no les prestemos la suficiente atención. Puede pasarnos también leyendo textos, pasando páginas sin más. Es relativamente fácil que tengamos el audiolibro reproduciéndose y estemos con la cabeza en otro planeta.
+
+Podríamos pensar que tratándose de un proyecto de voluntarios, la calidad de las grabaciones será precaria. Escuchando estos días _La Eneida_, reitero mi impresión totalmente opuesta. La calidad de los libros que he mencionado es altísima, de auténticos profesionales.
+
+* [_Ilíada_](https://librivox.org/la-iliada-por-homero/), leída por [Tomás Uribe Xifra](http://turibex.wordpress.com/).
+
+* [_Odisea_](https://librivox.org/la-odisea-by-homero/), leída por [Victor Eloy Villarraza](https://www.facebook.com/victor.villarraza).
+
+Por si alguien tiene dudas, son cerca de quince horas de grabación cada hora. Es un trabajo muy duro. Pero también en una escucha de tantas horas, si algo falla, se vuelve tedioso. Cuando va avanzando la obra, tienes ganas de escuchar precisamente esa lectura.
+
+## Cuestión de actitud
 
 ### Notas
 
@@ -33,3 +51,7 @@ Son libros que están en el dominio público que los leen voluntarios y sus grab
     > _To make all books in the public domain available, for free, in audio format on the internet._
 
 [^idiomas]: Puedes ver aquí los [libros disponibles por idiomas](http://librivox.org/search/language).
+
+[^griego]: De hecho, parece que en griego antiguo hay más que en griego moderno.
+
+[^escucha]: Realmente, me temo que la «escucha pasiva» es lo que te entra por los oídos porque no impides la audición.
